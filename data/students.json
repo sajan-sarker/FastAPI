@@ -1,0 +1,42 @@
+{
+    "s001": {
+        "name": "Rahim Uddin",
+        "city": "Dhaka",
+        "age": 21,
+        "gender": "Male",
+        "cgpa": 3.7,
+        "department": "Computer Science"
+    },
+    "s002": {
+        "name": "Fatema Akter",
+        "city": "Chittagong",
+        "age": 22,
+        "gender": "Female",
+        "cgpa": 3.8,
+        "department": "Electrical Engineering"
+    },
+    "s003": {
+        "name": "Hasan Mahmud",
+        "city": "Sylhet",
+        "age": 20,
+        "gender": "Male",
+        "cgpa": 3.6,
+        "department": "Civil Engineering"
+    },
+    "s004": {
+        "name": "Nusrat Jahan",
+        "city": "Rajshahi",
+        "age": 23,
+        "gender": "Female",
+        "cgpa": 3.9,
+        "department": "Business Administration"
+    },
+    "s005": {
+        "name": "Abdul Karim",
+        "city": "Khulna",
+        "age": 21,
+        "gender": "Male",
+        "cgpa": 3.5,
+        "department": "Mechanical Engineering"
+    }
+}

@@ -151,6 +151,8 @@ myenv.bak/
 .spyderproject
 .spyproject
 
+/test.py
+
 # Rope project settings
 .ropeproject
 

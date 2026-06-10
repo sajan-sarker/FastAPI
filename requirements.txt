@@ -1,7 +1,0 @@
-fastapi 
-uvicorn
-pydantic # Data validation and settings management using Python type annotations
-load-dotenv # To load environment variables from a .env file
-psycopg2    # PostgreSQL database adapter for Python
-sqlalchemy
-psycopg2-binary
